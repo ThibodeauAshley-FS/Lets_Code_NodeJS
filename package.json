@@ -1,0 +1,17 @@
+{
+  "name": "lets_code_nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS Backend Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "nodemon server"
+  },
+  "keywords": [
+    "NodeJS",
+    "Backend",
+    "Service"
+  ],
+  "author": "Ashley Thibodeau",
+  "license": "MIT"
+}
